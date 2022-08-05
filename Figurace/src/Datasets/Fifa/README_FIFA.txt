@@ -1,0 +1,2 @@
+Crea un archivo CSV de datos del FIFA21 depurados de un csv con mas datos y en ingles de FIFA21. Con sus cambios de posicion en espaniol,con su potencial definido como regular,bueno,muy bueno y sobresaliente. Ademas de depurar aquellos jugadores que tenian simbolos extranios en el nombre y el equipo.	
+Lautaro Alcorta.

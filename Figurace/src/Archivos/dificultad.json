@@ -1,0 +1,34 @@
+[
+    {"Facil":{
+        "tiempo_limite": "15"
+         ,"cant_rondas": "7"
+         ,"puntaje_correcto":"10"
+         ,"puntaje_incorrecta": "2"
+         ,"cant_caracteristicas" : "5"
+     }
+    },
+    {"Normal":{
+       "tiempo_limite": "20"
+        ,"cant_rondas": "10"
+        ,"puntaje_correcto":"10"
+        ,"puntaje_incorrecta": "4"
+        ,"cant_caracteristicas" : "5"
+    }
+    },
+    {"Dificil":{
+       "tiempo_limite": "10"
+        ,"cant_rondas": "15"
+        ,"puntaje_correcto":"10"
+        ,"puntaje_incorrecta": "5"
+        ,"cant_caracteristicas" : "3"
+    }
+    },
+    {"Experto":{
+       "tiempo_limite": "5"
+        ,"cant_rondas": "20"
+        ,"puntaje_correcto":"10"
+        ,"puntaje_incorrecta": "9"
+        ,"cant_caracteristicas" : "2"
+    }
+    }
+]

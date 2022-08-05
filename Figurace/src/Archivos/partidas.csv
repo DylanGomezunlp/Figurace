@@ -1,0 +1,438 @@
+timestamp,id,evento,usuarie,puntos,estado,texto ingresado,respuesta,nivel
+1655845847,30cd8477-f4d8-4cc5-8d42-3a0186ba8291,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655845854,30cd8477-f4d8-4cc5-8d42-3a0186ba8291,Intento,Hola!,-1.0,TimeOut,Johnny Russell,Johnny Russell,Experto
+1655845855,30cd8477-f4d8-4cc5-8d42-3a0186ba8291,Intento,Hola!,-2.0,MAL!,Johnny Russell,Anselmo Meirás,Experto
+1655845855,30cd8477-f4d8-4cc5-8d42-3a0186ba8291,Intento,Hola!,-3.0,MAL!,Johnny Russell,Lazaros Christodoulopoulos,Experto
+1655845856,30cd8477-f4d8-4cc5-8d42-3a0186ba8291,cancelada,Hola!,0,-,-,-,Experto
+1655849786,25b9e0dc-6ec9-463c-904b-32cdf4891323,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655849794,25b9e0dc-6ec9-463c-904b-32cdf4891323,cancelada,Hola!,0,-,-,-,Experto
+1655849817,f2aadb9c-a526-4afd-8b6a-ddc9c58b1e02,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655849822,f2aadb9c-a526-4afd-8b6a-ddc9c58b1e02,cancelada,Hola!,0,-,-,-,Experto
+1655849834,1163c0da-caa2-4234-8bf8-49ab0a6d657f,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655849835,1163c0da-caa2-4234-8bf8-49ab0a6d657f,Intento,Hola!,-1.0,MAL!,-,Richard Wood,Facil
+1655849840,1163c0da-caa2-4234-8bf8-49ab0a6d657f,Intento,Hola!,-2.0,MAL!,Agustín Doffo,Robert,Facil
+1655850081,e788af98-ad72-451e-9e34-fdc281c685a1,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655850084,e788af98-ad72-451e-9e34-fdc281c685a1,cancelada,Hola!,0,-,-,-,Experto
+1655850104,b119ea2a-2fea-4609-85bf-8db582b34d06,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655850107,b119ea2a-2fea-4609-85bf-8db582b34d06,cancelada,Hola!,0,-,-,-,Facil
+1655850622,9815bdfa-fbac-499d-9c43-02f79815fffa,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655850624,9815bdfa-fbac-499d-9c43-02f79815fffa,cancelada,Hola!,0,-,-,-,Facil
+1655850625,8efad745-f81c-4c45-9edf-18111c9d6ff9,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655850626,8efad745-f81c-4c45-9edf-18111c9d6ff9,cancelada,Hola!,0,-,-,-,Facil
+1655850627,7ec59487-4613-429d-aba3-32e4ce699207,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655850629,7ec59487-4613-429d-aba3-32e4ce699207,cancelada,Hola!,0,-,-,-,Facil
+1655850630,c0627d7b-2c30-4bf5-bd76-cee9cd939edb,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655850632,c0627d7b-2c30-4bf5-bd76-cee9cd939edb,cancelada,Hola!,0,-,-,-,Facil
+1655850632,60094acc-dcf9-4045-9484-425d194f4a16,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655850634,60094acc-dcf9-4045-9484-425d194f4a16,cancelada,Hola!,0,-,-,-,Facil
+1655850635,5efca873-992e-4077-a4cd-544bd2121a67,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655850637,5efca873-992e-4077-a4cd-544bd2121a67,cancelada,Hola!,0,-,-,-,Facil
+1655850637,291bb41e-4f21-4b58-ac0c-1a798f1689f8,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655850639,291bb41e-4f21-4b58-ac0c-1a798f1689f8,cancelada,Hola!,0,-,-,-,Facil
+1655850640,ee1651bc-73f8-4afc-876c-d6b042955510,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655850648,ee1651bc-73f8-4afc-876c-d6b042955510,Intento,Hola!,-1.0,MAL!,Tiësto,Bridgit Mendler,Facil
+1655850650,ee1651bc-73f8-4afc-876c-d6b042955510,Intento,Hola!,-2.0,MAL!,Nelly,The Band Perry,Facil
+1655850652,ee1651bc-73f8-4afc-876c-d6b042955510,Intento,Hola!,-3.0,MAL!,Rob $tone,Disclosure,Facil
+1655850653,ee1651bc-73f8-4afc-876c-d6b042955510,Intento,Hola!,-4.0,MAL!,CHVRCHES,Deorro,Facil
+1655850654,ee1651bc-73f8-4afc-876c-d6b042955510,Intento,Hola!,6.0,BIEN!,Phillip Phillips,Phillip Phillips,Facil
+1655850656,ee1651bc-73f8-4afc-876c-d6b042955510,Intento,Hola!,16.0,BIEN!,Ariana Grande,Ariana Grande,Facil
+1655850658,ee1651bc-73f8-4afc-876c-d6b042955510,Fin,Hola!,16.0,Finalizada,-,-,Facil
+1655850832,297e7117-b7fc-43a6-b9f8-8bfc838cddd8,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655850835,297e7117-b7fc-43a6-b9f8-8bfc838cddd8,cancelada,Hola!,0,-,-,-,Facil
+1655850954,d2ba3846-9db4-4755-8799-e97de157db4d,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655850958,d2ba3846-9db4-4755-8799-e97de157db4d,Intento,Hola!,-1.0,MAL!,Ayo & Teo,Pitbull,Facil
+1655850960,d2ba3846-9db4-4755-8799-e97de157db4d,Intento,Hola!,-2.0,MAL!,MKTO,Justin Timberlake,Facil
+1655850961,d2ba3846-9db4-4755-8799-e97de157db4d,Intento,Hola!,8.0,BIEN!,Justin Bieber,Justin Bieber,Facil
+1655850964,d2ba3846-9db4-4755-8799-e97de157db4d,Intento,Hola!,7.0,MAL!,Flipp Dinero,Sam Smith,Facil
+1655850969,d2ba3846-9db4-4755-8799-e97de157db4d,cancelada,Hola!,0,-,-,-,Facil
+1655850971,5a10b79f-a886-4794-ae51-bc5dcc3fd787,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655850972,5a10b79f-a886-4794-ae51-bc5dcc3fd787,cancelada,Hola!,0,-,-,-,Facil
+1655851038,12066d47-456c-41d6-b03e-05816c945b76,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655851045,12066d47-456c-41d6-b03e-05816c945b76,cancelada,Hola!,0,-,-,-,Experto
+1655851050,07e90bf5-11f1-4585-8d95-81a442cfbd3a,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655851052,07e90bf5-11f1-4585-8d95-81a442cfbd3a,cancelada,Hola!,0,-,-,-,Experto
+1655851186,815a3313-8e18-4b54-948c-12a9227a8dc8,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655851193,815a3313-8e18-4b54-948c-12a9227a8dc8,Intento,Hola!,-1.0,TimeOut,-,Maroon 5,Experto
+1655851195,815a3313-8e18-4b54-948c-12a9227a8dc8,cancelada,Hola!,0,-,-,-,Experto
+1655851439,6d08d0c0-ef2d-4d0f-a406-a04b6c56a257,inicio_partida,Hola!,0,nueva,-,-,Facil
+1655851441,6d08d0c0-ef2d-4d0f-a406-a04b6c56a257,cancelada,Hola!,0,-,-,-,Facil
+1655851497,32a8459e-feb6-4d12-ab41-71bf43140e4f,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655851500,32a8459e-feb6-4d12-ab41-71bf43140e4f,cancelada,Hola!,0,-,-,-,Experto
+1655854301,f0949537-c717-4ccd-a13c-423ab80309f4,inicio_partida,Hola!,0,nueva,-,-,Personalizado
+1655854303,f0949537-c717-4ccd-a13c-423ab80309f4,Intento,Hola!,-1.0,TimeOut,-,The Chainsmokers,Personalizado
+1655854304,f0949537-c717-4ccd-a13c-423ab80309f4,Intento,Hola!,-2.0,TimeOut,-,Rich The Kid,Personalizado
+1655854306,f0949537-c717-4ccd-a13c-423ab80309f4,Intento,Hola!,-3.0,TimeOut,-,Playboi Carti,Personalizado
+1655854307,f0949537-c717-4ccd-a13c-423ab80309f4,cancelada,Hola!,0,-,-,-,Personalizado
+1655864252,3431ad5d-d60c-4c1c-bf2d-18b2b94087a4,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655864256,3431ad5d-d60c-4c1c-bf2d-18b2b94087a4,cancelada,Hola!,0,-,-,-,Experto
+1655927159,041df270-b6f4-4461-9fd6-63440b10ccf6,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655927161,041df270-b6f4-4461-9fd6-63440b10ccf6,cancelada,Hola!,0,-,-,-,Experto
+1655927163,e5317021-d7ae-47aa-939c-2ca03781c04c,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655927166,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,-1.0,MAL!,Guntur (Indonesia),Fuego (Guatemala),Experto
+1655927168,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,-2.0,MAL!,Guntur (Indonesia),"Lengai, Ol Doinyo (Tanzania)",Experto
+1655927169,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,-3.0,MAL!,Cereme (Indonesia),Kuwae (Vanuatu),Experto
+1655927171,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,-4.0,MAL!,Pelee (Martinique),Soufriere Hills (Montserrat),Experto
+1655927174,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,6.0,BIEN!,Paluweh (Indonesia),Paluweh (Indonesia),Experto
+1655927175,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,16.0,BIEN!,Taal (Philippines),Taal (Philippines),Experto
+1655927176,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,26.0,BIEN!,Dubbi (Eritrea),Dubbi (Eritrea),Experto
+1655927179,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,36.0,BIEN!,"Hudson, Cerro (Chile)","Hudson, Cerro (Chile)",Experto
+1655927187,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,35.0,TimeOut,No selecciono nada,Semeru (Indonesia),Experto
+1655927188,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,34.0,MAL!,No selecciono nada,Merapi (Indonesia),Experto
+1655927189,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,33.0,MAL!,No selecciono nada,Hakone (Japan),Experto
+1655927190,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,32.0,MAL!,No selecciono nada,Katla (Iceland),Experto
+1655927190,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,31.0,MAL!,No selecciono nada,Usu (Japan),Experto
+1655927191,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,30.0,MAL!,No selecciono nada,Sirung (Indonesia),Experto
+1655927191,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,29.0,MAL!,No selecciono nada,Katla (Iceland),Experto
+1655927191,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,28.0,MAL!,No selecciono nada,Fogo (Cape Verde),Experto
+1655927191,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,27.0,MAL!,No selecciono nada,Iya (Indonesia),Experto
+1655927191,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,26.0,MAL!,No selecciono nada,Macauley Island (New Zealand),Experto
+1655927192,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,25.0,MAL!,No selecciono nada,Krakatau (Indonesia),Experto
+1655927192,e5317021-d7ae-47aa-939c-2ca03781c04c,Intento,Hola!,25.0,---,No selecciono nada,Chokai (Japan),Experto
+1655927192,e5317021-d7ae-47aa-939c-2ca03781c04c,Fin,Hola!,25.0,Finalizada,-,-,Experto
+1655930008,d4e63810-1aa9-45a7-b969-083258dad4d6,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655930010,d4e63810-1aa9-45a7-b969-083258dad4d6,cancelada,Hola!,0,-,-,-,Experto
+1655930012,b71521fa-b9c9-4b8d-8cd6-dcd85b98f02f,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655930014,b71521fa-b9c9-4b8d-8cd6-dcd85b98f02f,cancelada,Hola!,0,-,-,-,Experto
+1655935805,97ca5196-5a60-4265-8aec-76891e839986,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655935807,97ca5196-5a60-4265-8aec-76891e839986,cancelada,Hola!,0,-,-,-,Experto
+1655936141,b4e00d05-138e-4d7c-b7d5-182c1374fe60,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655936144,b4e00d05-138e-4d7c-b7d5-182c1374fe60,cancelada,Hola!,0,-,-,-,Experto
+1655936150,96180421-91e0-4ab7-be02-f4798eac2be0,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655936151,96180421-91e0-4ab7-be02-f4798eac2be0,cancelada,Hola!,0,-,-,-,Experto
+1655936841,a2198523-443a-4058-a9a1-afd4265190dd,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655936845,a2198523-443a-4058-a9a1-afd4265190dd,cancelada,Hola!,0,-,-,-,Experto
+1655936902,41770fe9-67cb-4cb1-a4e7-c8b719903642,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655936904,41770fe9-67cb-4cb1-a4e7-c8b719903642,cancelada,Hola!,0,-,-,-,Experto
+1655937167,1dee1b26-64a6-496b-9e42-124f53de5416,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655937168,1dee1b26-64a6-496b-9e42-124f53de5416,cancelada,Hola!,0,-,-,-,Experto
+1655937172,b33e98d6-e60c-4a0f-83ab-c7b6fe9c059a,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655937175,b33e98d6-e60c-4a0f-83ab-c7b6fe9c059a,cancelada,Hola!,0,-,-,-,Experto
+1655937180,d01e58c9-cc55-4203-82b4-125a3aed4b8f,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655937181,d01e58c9-cc55-4203-82b4-125a3aed4b8f,cancelada,Hola!,0,-,-,-,Experto
+1655937212,112723d9-c638-4cbe-810d-e0ca5ff9ae39,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655937214,112723d9-c638-4cbe-810d-e0ca5ff9ae39,cancelada,Hola!,0,-,-,-,Experto
+1655937224,ee6855b7-2863-4323-b1b3-61034af096a6,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655937225,ee6855b7-2863-4323-b1b3-61034af096a6,cancelada,Hola!,0,-,-,-,Experto
+1655937231,8cc3cb01-4461-4d8a-8c51-642035211941,inicio_partida,Hola!,0,nueva,-,-,Normal
+1655937232,8cc3cb01-4461-4d8a-8c51-642035211941,cancelada,Hola!,0,-,-,-,Normal
+1655937312,595ffde1-a980-471c-b48a-eb5e3ac2afaf,inicio_partida,Hola!,0,nueva,-,-,Experto
+1655937314,595ffde1-a980-471c-b48a-eb5e3ac2afaf,cancelada,Hola!,0,-,-,-,Experto
+1656028725,a77076c8-6123-487f-ba27-28c7b0617795,inicio_partida,Lea,0,nueva,-,-,Normal
+1656028727,a77076c8-6123-487f-ba27-28c7b0617795,Intento,Lea,10.0,BIEN!,Tengchong (China),Tengchong (China),Normal
+1656028729,a77076c8-6123-487f-ba27-28c7b0617795,Intento,Lea,9.0,MAL!,Lewotobi (Indonesia),Ulawun (Papua New Guinea),Normal
+1656028730,a77076c8-6123-487f-ba27-28c7b0617795,Intento,Lea,8.0,MAL!,Ceboruco (Mexico),Kelut (Indonesia),Normal
+1656028731,a77076c8-6123-487f-ba27-28c7b0617795,Intento,Lea,18.0,BIEN!,Kirishima (Japan),Kirishima (Japan),Normal
+1656028733,a77076c8-6123-487f-ba27-28c7b0617795,Intento,Lea,28.0,BIEN!,Gamalama (Indonesia),Gamalama (Indonesia),Normal
+1656028734,a77076c8-6123-487f-ba27-28c7b0617795,Intento,Lea,38.0,BIEN!,Grimsvotn (Iceland),Grimsvotn (Iceland),Normal
+1656028736,a77076c8-6123-487f-ba27-28c7b0617795,Intento,Lea,37.0,MAL!,Chokai (Japan),Nasu (Japan),Normal
+1656028737,a77076c8-6123-487f-ba27-28c7b0617795,Intento,Lea,36.0,MAL!,Umboi (Papua New Guinea),Banda Api (Pacific Ocean),Normal
+1656028738,a77076c8-6123-487f-ba27-28c7b0617795,Intento,Lea,35.0,MAL!,Alayta (Ethiopia),Kelut (Indonesia),Normal
+1656028740,a77076c8-6123-487f-ba27-28c7b0617795,Intento,Lea,35.0,MAL!,Rabaul (Papua New Guinea),Mayon (Philippines),Normal
+1656028742,a77076c8-6123-487f-ba27-28c7b0617795,Fin,Lea,35.0,Finalizada,-,-,Normal
+1656028751,3cc256f2-9eb6-4f67-8a64-383ca453eb6c,inicio_partida,kjj,0,nueva,-,-,Normal
+1656028753,3cc256f2-9eb6-4f67-8a64-383ca453eb6c,Intento,kjj,-1.0,MAL!,Oraefajokull (Iceland),Dama Ali (Ethiopia),Normal
+1656028755,3cc256f2-9eb6-4f67-8a64-383ca453eb6c,Intento,kjj,-2.0,MAL!,Ruiz (Colombia),Miyake-jima (Japan),Normal
+1656028756,3cc256f2-9eb6-4f67-8a64-383ca453eb6c,Intento,kjj,8.0,BIEN!,Sinabung (Indonesia),Sinabung (Indonesia),Normal
+1656028757,3cc256f2-9eb6-4f67-8a64-383ca453eb6c,Intento,kjj,7.0,MAL!,"Cameroon, Mt. (Cameroon)",Arenal (Costa Rica),Normal
+1656028758,3cc256f2-9eb6-4f67-8a64-383ca453eb6c,Intento,kjj,6.0,MAL!,Awu (Indonesia),Taupo (New Zealand),Normal
+1656028759,3cc256f2-9eb6-4f67-8a64-383ca453eb6c,Intento,kjj,5.0,MAL!,Vestmannaeyjar (Iceland),Kirishima (Japan),Normal
+1656028761,3cc256f2-9eb6-4f67-8a64-383ca453eb6c,Intento,kjj,4.0,MAL!,Galunggung (Indonesia),Unzen (Japan),Normal
+1656028762,3cc256f2-9eb6-4f67-8a64-383ca453eb6c,Intento,kjj,3.0,MAL!,Billy Mitchell (Papua New Guinea),Peuet Sague (Indonesia),Normal
+1656028764,3cc256f2-9eb6-4f67-8a64-383ca453eb6c,Intento,kjj,2.0,MAL!,Vsevidof (United States),Vesuvius (Italy),Normal
+1656028765,3cc256f2-9eb6-4f67-8a64-383ca453eb6c,Intento,kjj,2.0,MAL!,Victory (Papua New Guinea),Semeru (Indonesia),Normal
+1656028767,3cc256f2-9eb6-4f67-8a64-383ca453eb6c,Fin,kjj,2.0,Finalizada,-,-,Normal
+1656028857,68276ec3-4ebe-4b78-b7a7-8eacefdd443f,inicio_partida,Lea,0,nueva,-,-,Normal
+1656028860,68276ec3-4ebe-4b78-b7a7-8eacefdd443f,Intento,Lea,-1.0,MAL!,Djalma,Valentino Müller,Normal
+1656028862,68276ec3-4ebe-4b78-b7a7-8eacefdd443f,Intento,Lea,-2.0,MAL!,Djalma,Quentin Lecoeuche,Normal
+1656028863,68276ec3-4ebe-4b78-b7a7-8eacefdd443f,Intento,Lea,-3.0,MAL!,Matt Crooks,Ivan Perišic,Normal
+1656028864,68276ec3-4ebe-4b78-b7a7-8eacefdd443f,Intento,Lea,-4.0,MAL!,Diego Oliveira,Maximiliano Cuadra,Normal
+1656028866,68276ec3-4ebe-4b78-b7a7-8eacefdd443f,Intento,Lea,-5.0,MAL!,Mikkel Rygaard,Marco Wölfli,Normal
+1656028867,68276ec3-4ebe-4b78-b7a7-8eacefdd443f,Intento,Lea,5.0,BIEN!,Juan Mosquera,Juan Mosquera,Normal
+1656028868,68276ec3-4ebe-4b78-b7a7-8eacefdd443f,Intento,Lea,4.0,MAL!,Manuel Gulde,Thanos Petsos,Normal
+1656028869,68276ec3-4ebe-4b78-b7a7-8eacefdd443f,Intento,Lea,3.0,MAL!,Quentin Beunardeau,Carl Winchester,Normal
+1656028871,68276ec3-4ebe-4b78-b7a7-8eacefdd443f,Intento,Lea,2.0,MAL!,John White,Guillaume Dequaire,Normal
+1656028873,68276ec3-4ebe-4b78-b7a7-8eacefdd443f,Intento,Lea,2.0,MAL!,Ahmed Ba Masoud,Guido Rodríguez,Normal
+1656028874,68276ec3-4ebe-4b78-b7a7-8eacefdd443f,Fin,Lea,2.0,Finalizada,-,-,Normal
+1656028878,063e4d3b-97e0-40aa-8937-e4516e515e7d,inicio_partida,Lea,0,nueva,-,-,Normal
+1656028881,063e4d3b-97e0-40aa-8937-e4516e515e7d,Intento,Lea,10.0,BIEN!,Bruno Mars,Bruno Mars,Normal
+1656028882,063e4d3b-97e0-40aa-8937-e4516e515e7d,Intento,Lea,9.0,MAL!,Azealia Banks,Calvin Harris,Normal
+1656028883,063e4d3b-97e0-40aa-8937-e4516e515e7d,Intento,Lea,8.0,MAL!,John Mayer,Adele,Normal
+1656028885,063e4d3b-97e0-40aa-8937-e4516e515e7d,Intento,Lea,18.0,BIEN!,Gym Class Heroes,Gym Class Heroes,Normal
+1656028886,063e4d3b-97e0-40aa-8937-e4516e515e7d,Intento,Lea,17.0,MAL!,Petit Biscuit,P!nk,Normal
+1656028887,063e4d3b-97e0-40aa-8937-e4516e515e7d,Intento,Lea,16.0,MAL!,Nickelback,Avicii,Normal
+1656028888,063e4d3b-97e0-40aa-8937-e4516e515e7d,Intento,Lea,15.0,MAL!,Scouting For Girls,Eric Church,Normal
+1656028890,063e4d3b-97e0-40aa-8937-e4516e515e7d,Intento,Lea,14.0,MAL!,Florida Georgia Line,Lorde,Normal
+1656028891,063e4d3b-97e0-40aa-8937-e4516e515e7d,Intento,Lea,13.0,MAL!,Duke Dumont,Ellie Goulding,Normal
+1656028892,063e4d3b-97e0-40aa-8937-e4516e515e7d,Intento,Lea,13.0,MAL!,BØRNS,Mike Posner,Normal
+1656028894,063e4d3b-97e0-40aa-8937-e4516e515e7d,Fin,Lea,13.0,Finalizada,-,-,Normal
+=======
+1655857710,e283c861-b133-4785-a349-09a882e27202,inicio_partida,laut,0,nueva,-,-,Facil
+1655857711,e283c861-b133-4785-a349-09a882e27202,Intento,laut,-1.0,MAL!,Guatemala (Guatemala),Lesser Sunda Is (Indonesia),Facil
+1655857711,e283c861-b133-4785-a349-09a882e27202,Intento,laut,-2.0,MAL!,US-Oregon (United States),Iceland-S (Iceland),Facil
+1655857712,e283c861-b133-4785-a349-09a882e27202,Intento,laut,-3.0,MAL!,Vanuatu-SW Pacific (Vanuatu),Kyushu-Japan (Japan),Facil
+1655857713,e283c861-b133-4785-a349-09a882e27202,Intento,laut,-4.0,MAL!,US-Oregon (United States),Indonesia (Indonesia),Facil
+1655857713,e283c861-b133-4785-a349-09a882e27202,Intento,laut,-5.0,MAL!,China-S (China),Honshu-Japan (Japan),Facil
+1655857715,e283c861-b133-4785-a349-09a882e27202,Intento,laut,-6.0,MAL!,Azores (Portugal),Italy (Italy),Facil
+1655857736,e283c861-b133-4785-a349-09a882e27202,Intento,laut,-6.0,TimeOut,No selecciono nada,Honshu-Japan (Japan),Facil
+1655857736,e283c861-b133-4785-a349-09a882e27202,Fin,laut,-6.0,Finalizada,-,-,Facil
+1655857741,094f29eb-3e45-4934-a18d-f97f75155fdb,inicio_partida,laut,0,nueva,-,-,Dificil
+1655857743,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,-1.0,MAL!,Dídac Vilà,Ched Evans,Dificil
+1655857744,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,-2.0,MAL!,Adrián Rodríguez,Joel King,Dificil
+1655857745,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,-3.0,MAL!,Jonas Behounek,Tyler Roberts,Dificil
+1655857746,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,-4.0,MAL!,Makhete Diop,Kiwara Miyazaki,Dificil
+1655857747,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,6.0,BIEN!,Klaus Gjasula,Klaus Gjasula,Dificil
+1655857749,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,16.0,BIEN!,Takuya Iwanami,Takuya Iwanami,Dificil
+1655857751,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,26.0,BIEN!,Darwin Gómez,Darwin Gómez,Dificil
+1655857752,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,36.0,BIEN!,Flemming Niemann,Flemming Niemann,Dificil
+1655857754,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,46.0,BIEN!,Peter Zulj,Peter Zulj,Dificil
+1655857755,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,56.0,BIEN!,Jon Guthrie,Jon Guthrie,Dificil
+1655857756,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,66.0,BIEN!,Nicola Dalmonte,Nicola Dalmonte,Dificil
+1655857758,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,76.0,BIEN!,Gui Hong,Gui Hong,Dificil
+1655857760,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,86.0,BIEN!,Michael Crowe,Michael Crowe,Dificil
+1655857762,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,85.0,MAL!,Wesley Jobello,Scott Wootton,Dificil
+1655857763,094f29eb-3e45-4934-a18d-f97f75155fdb,Intento,laut,85.0,BIEN!,Oan Djorkaeff,Oan Djorkaeff,Dificil
+1655857765,094f29eb-3e45-4934-a18d-f97f75155fdb,Fin,laut,85.0,Finalizada,-,-,Dificil
+1655857832,ba98cc45-f0a3-466f-9c9a-e97817a95409,inicio_partida,laut,0,nueva,-,-,Personalizado
+1655857835,ba98cc45-f0a3-466f-9c9a-e97817a95409,Intento,laut,-1.0,MAL!,Nathan Aké,Park Jung In,Personalizado
+1655857836,ba98cc45-f0a3-466f-9c9a-e97817a95409,Intento,laut,-2.0,MAL!,Nathan Aké,Danny Grant,Personalizado
+1655857838,ba98cc45-f0a3-466f-9c9a-e97817a95409,Intento,laut,-3.0,MAL!,Güven Yalçin,Matías Arezo,Personalizado
+1655857839,ba98cc45-f0a3-466f-9c9a-e97817a95409,Intento,laut,7.0,BIEN!,Meschack Elia,Meschack Elia,Personalizado
+1655857845,ba98cc45-f0a3-466f-9c9a-e97817a95409,Intento,laut,7.0,BIEN!,Nicolai Poulsen,Nicolai Poulsen,Personalizado
+1655857851,ba98cc45-f0a3-466f-9c9a-e97817a95409,Fin,laut,7.0,Finalizada,-,-,Personalizado
+1655857860,d48c2259-4e00-48ba-923d-aa057af16fb0,inicio_partida,ala,0,nueva,-,-,Facil
+1655857865,d48c2259-4e00-48ba-923d-aa057af16fb0,Intento,ala,-1.0,MAL!,Adama Soumaoro,Carlos Julio Martínez,Facil
+1655857867,d48c2259-4e00-48ba-923d-aa057af16fb0,Intento,ala,9.0,BIEN!,Alexander Aguilmera,Alexander Aguilmera,Facil
+1655857870,d48c2259-4e00-48ba-923d-aa057af16fb0,Intento,ala,19.0,BIEN!,Bastian Badu,Bastian Badu,Facil
+1655857872,d48c2259-4e00-48ba-923d-aa057af16fb0,Intento,ala,29.0,BIEN!,Tiagildo Serra,Tiagildo Serra,Facil
+1655857873,d48c2259-4e00-48ba-923d-aa057af16fb0,Intento,ala,39.0,BIEN!,Sergi Darder,Sergi Darder,Facil
+1655857875,d48c2259-4e00-48ba-923d-aa057af16fb0,Intento,ala,49.0,BIEN!,Jailson Caeiro,Jailson Caeiro,Facil
+1655857876,d48c2259-4e00-48ba-923d-aa057af16fb0,Intento,ala,49.0,BIEN!,Alessandro De Vitis,Alessandro De Vitis,Facil
+1655857882,d48c2259-4e00-48ba-923d-aa057af16fb0,Fin,ala,49.0,Finalizada,-,-,Facil
+1655857891,02f89c80-63b3-4df7-a4ca-2fcc0d85d33f,inicio_partida,ala,0,nueva,-,-,Dificil
+1655857892,02f89c80-63b3-4df7-a4ca-2fcc0d85d33f,Intento,ala,-1.0,MAL!,Chile-S (Chile),Kuril Is (Russia),Dificil
+1655857893,02f89c80-63b3-4df7-a4ca-2fcc0d85d33f,Intento,ala,-2.0,MAL!,Ryukyu Is (Japan),Italy (Italy),Dificil
+1655857893,02f89c80-63b3-4df7-a4ca-2fcc0d85d33f,Intento,ala,-3.0,MAL!,Nicaragua (Nicaragua),Java (Indonesia),Dificil
+1655857894,02f89c80-63b3-4df7-a4ca-2fcc0d85d33f,Intento,ala,-4.0,MAL!,Alaska Peninsula (United States),Honshu-Japan (Japan),Dificil
+1655857896,02f89c80-63b3-4df7-a4ca-2fcc0d85d33f,Intento,ala,-5.0,MAL!,Galapagos (Ecuador),W Indies (Martinique),Dificil
+1655857897,02f89c80-63b3-4df7-a4ca-2fcc0d85d33f,Intento,ala,-6.0,MAL!,China-E (North Korea),Luzon-Philippines (Philippines),Dificil
+1655857898,02f89c80-63b3-4df7-a4ca-2fcc0d85d33f,Intento,ala,4.0,BIEN!,Sangihe Is-Indonesia (Indonesia),Sangihe Is-Indonesia (Indonesia),Dificil
+1655857911,02f89c80-63b3-4df7-a4ca-2fcc0d85d33f,Intento,ala,3.0,TimeOut,No selecciono nada,Kamchatka (Russia),Dificil
+1655857913,02f89c80-63b3-4df7-a4ca-2fcc0d85d33f,Intento,ala,2.0,MAL!,Nicaragua (Nicaragua),Kyushu-Japan (Japan),Dificil
+1655857914,02f89c80-63b3-4df7-a4ca-2fcc0d85d33f,Intento,ala,1.0,MAL!,US-Wyoming (United States),Halmahera-Indonesia (Indonesia),Dificil
+1655857917,02f89c80-63b3-4df7-a4ca-2fcc0d85d33f,cancelada,ala,0,-,-,-,Dificil
+1655857922,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,inicio_partida,ala,0,nueva,-,-,Dificil
+1655857924,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,-1.0,MAL!,José Soto,Shay Logan,Dificil
+1655857924,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,-2.0,MAL!,Nikolaj Kirk,Rilwan Hassan,Dificil
+1655857926,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,8.0,BIEN!,Maxime Crépeau,Maxime Crépeau,Dificil
+1655857927,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,7.0,MAL!,No selecciono nada,Awer Mabil,Dificil
+1655857929,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,6.0,MAL!,Marley Aké,Dani Giménez,Dificil
+1655857930,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,16.0,BIEN!,Nick Viergever,Nick Viergever,Dificil
+1655857947,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,15.0,TimeOut,No selecciono nada,Wilson Manafá,Dificil
+1655857948,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,14.0,MAL!,Lamin Jallow,Mustafa Amini,Dificil
+1655857950,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,13.0,MAL!,Ryo Miyaichi,Dennis Telgenkamp,Dificil
+1655857951,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,12.0,MAL!,Stelios Kitsiou,Tommy Elphick,Dificil
+1655857953,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,11.0,MAL!,Richard Nartey,Aldair Fuentes,Dificil
+1655857955,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,10.0,MAL!,Marco Carnesecchi,Michele Di Gregorio,Dificil
+1655857968,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,9.0,TimeOut,No selecciono nada,Grant Leadbitter,Dificil
+1655857969,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,8.0,MAL!,Antonio Marino,André André,Dificil
+1655857970,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Intento,ala,8.0,MAL!,Mattia Minesso,Uffe Bech,Dificil
+1655857971,5d1fd700-d22f-4cf4-8aab-e6af0b0166a1,Fin,ala,8.0,Finalizada,-,-,Dificil
+1655858095,89b7627a-0d55-426b-bd97-f99d1e31bb55,inicio_partida,carm,0,nueva,-,-,Personalizado
+1655858097,89b7627a-0d55-426b-bd97-f99d1e31bb55,Intento,carm,-1.0,MAL!,Callum McFadzean,Carlos Ponck,Personalizado
+1655858098,89b7627a-0d55-426b-bd97-f99d1e31bb55,Intento,carm,-2.0,MAL!,Jetro Willems,Ezequiel Garay,Personalizado
+1655858099,89b7627a-0d55-426b-bd97-f99d1e31bb55,Intento,carm,-3.0,MAL!,Daiki Miya,Alex Bergantiños,Personalizado
+1655858101,89b7627a-0d55-426b-bd97-f99d1e31bb55,Intento,carm,-4.0,MAL!,Abdullah Al Humayan,John Mountney,Personalizado
+1655858102,89b7627a-0d55-426b-bd97-f99d1e31bb55,Intento,carm,6.0,BIEN!,Johannes Geis,Johannes Geis,Personalizado
+1655858104,89b7627a-0d55-426b-bd97-f99d1e31bb55,Intento,carm,16.0,BIEN!,Sergio Román,Sergio Román,Personalizado
+1655858105,89b7627a-0d55-426b-bd97-f99d1e31bb55,Intento,carm,26.0,BIEN!,Andreas Vindheim,Andreas Vindheim,Personalizado
+1655858106,89b7627a-0d55-426b-bd97-f99d1e31bb55,Intento,carm,36.0,BIEN!,Mohammed Sagaf,Mohammed Sagaf,Personalizado
+1655858108,89b7627a-0d55-426b-bd97-f99d1e31bb55,Intento,carm,46.0,BIEN!,Paulo Vítor,Paulo Vítor,Personalizado
+1655858109,89b7627a-0d55-426b-bd97-f99d1e31bb55,Intento,carm,46.0,BIEN!,André Calisir,André Calisir,Personalizado
+1655858110,89b7627a-0d55-426b-bd97-f99d1e31bb55,Fin,carm,46.0,Finalizada,-,-,Personalizado
+1655858117,bf43b906-47b2-4bde-831a-41c1e243c1a3,inicio_partida,oddie,0,nueva,-,-,Normal
+1655858118,bf43b906-47b2-4bde-831a-41c1e243c1a3,Intento,oddie,10.0,BIEN!,Mindanao-Philippines (Philippines),Mindanao-Philippines (Philippines),Normal
+1655858119,bf43b906-47b2-4bde-831a-41c1e243c1a3,Intento,oddie,9.0,MAL!,Greece (Greece),Indonesia (Indonesia),Normal
+1655858120,bf43b906-47b2-4bde-831a-41c1e243c1a3,Intento,oddie,8.0,MAL!,Indian O-W (Comoros),Azores (Portugal),Normal
+1655858121,bf43b906-47b2-4bde-831a-41c1e243c1a3,Intento,oddie,7.0,MAL!,Alaska-SW (United States),Africa-E (Tanzania),Normal
+1655858122,bf43b906-47b2-4bde-831a-41c1e243c1a3,Intento,oddie,6.0,MAL!,Alaska Peninsula (United States),Luzon-Philippines (Philippines),Normal
+1655858123,bf43b906-47b2-4bde-831a-41c1e243c1a3,Intento,oddie,5.0,MAL!,Iceland-S (Iceland),Mexico (Mexico),Normal
+1655858124,bf43b906-47b2-4bde-831a-41c1e243c1a3,Intento,oddie,15.0,BIEN!,Honshu-Japan (Japan),Honshu-Japan (Japan),Normal
+1655858126,bf43b906-47b2-4bde-831a-41c1e243c1a3,Intento,oddie,25.0,BIEN!,Ryukyu Is (Japan),Ryukyu Is (Japan),Normal
+1655858127,bf43b906-47b2-4bde-831a-41c1e243c1a3,Intento,oddie,35.0,BIEN!,W Indies (Montserrat),W Indies (Montserrat),Normal
+1655858128,bf43b906-47b2-4bde-831a-41c1e243c1a3,Intento,oddie,35.0,BIEN!,Honshu-Japan (Japan),Honshu-Japan (Japan),Normal
+1655858129,bf43b906-47b2-4bde-831a-41c1e243c1a3,Fin,oddie,35.0,Finalizada,-,-,Normal
+1655858134,142faa56-b157-46a1-861b-afd109e8aca9,inicio_partida,oddie,0,nueva,-,-,Dificil
+1655858135,142faa56-b157-46a1-861b-afd109e8aca9,Intento,oddie,-1.0,MAL!,Africa-C (Congo,Sangihe Is-Indonesia (Indonesia),Dificil
+1655858136,142faa56-b157-46a1-861b-afd109e8aca9,Intento,oddie,-2.0,MAL!,Africa-C (Congo,Honshu-Japan (Japan),Dificil
+1655858137,142faa56-b157-46a1-861b-afd109e8aca9,Intento,oddie,-3.0,MAL!,Solomon Is-SW Pacifi (Solomon Is.),Ecuador (Ecuador),Dificil
+1655858137,142faa56-b157-46a1-861b-afd109e8aca9,Intento,oddie,-4.0,MAL!,New Zealand (New Zealand),Alaska-SW (United States),Dificil
+1655858140,142faa56-b157-46a1-861b-afd109e8aca9,cancelada,oddie,0,-,-,-,Dificil
+1655858143,bba7192a-faa7-4627-acb7-d18bc5507dfd,inicio_partida,oddie,0,nueva,-,-,Experto
+1655858148,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,10.0,BIEN!,Gustav Jarl,Gustav Jarl,Experto
+1655858149,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,9.0,MAL!,Patrick Bamford,Zeus de la Paz,Experto
+1655858149,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,19.0,BIEN!,Marc Gual,Marc Gual,Experto
+1655858151,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,29.0,BIEN!,Jason,Jason,Experto
+1655858152,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,39.0,BIEN!,Tariq Lamptey,Tariq Lamptey,Experto
+1655858152,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,49.0,BIEN!,Mark Cullen,Mark Cullen,Experto
+1655858153,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,59.0,BIEN!,Pablo Rosario,Pablo Rosario,Experto
+1655858154,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,69.0,BIEN!,Maximilian Rossmann,Maximilian Rossmann,Experto
+1655858155,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,79.0,BIEN!,Jordan Thompson,Jordan Thompson,Experto
+1655858156,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,89.0,BIEN!,Youssouf M'Changama,Youssouf M'Changama,Experto
+1655858157,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,99.0,BIEN!,Jiang Tao,Jiang Tao,Experto
+1655858158,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,109.0,BIEN!,Javi Alonso,Javi Alonso,Experto
+1655858159,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,119.0,BIEN!,Fabian Lustenberger,Fabian Lustenberger,Experto
+1655858159,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,129.0,BIEN!,Youssouph Badji,Youssouph Badji,Experto
+1655858160,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,139.0,BIEN!,Brice Dja Djédjé,Brice Dja Djédjé,Experto
+1655858161,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,138.0,MAL!,Rémi Oudin,Josh Maja,Experto
+1655858163,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,137.0,MAL!,Lisandru Tramoni,Kévin Hoggas,Experto
+1655858164,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,136.0,MAL!,Jeppe Brinch,Joe Lumley,Experto
+1655858167,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,146.0,BIEN!,Ørjan Nyland,Ørjan Nyland,Experto
+1655858168,bba7192a-faa7-4627-acb7-d18bc5507dfd,Intento,oddie,146.0,MAL!,Jannik Huth,Ignacio Tapia,Experto
+1655858169,bba7192a-faa7-4627-acb7-d18bc5507dfd,Fin,oddie,146.0,Finalizada,-,-,Experto
+1655858176,6920c7ae-d38f-4854-bd40-d75564543ec3,inicio_partida,laut,0,nueva,-,-,Normal
+1655858177,6920c7ae-d38f-4854-bd40-d75564543ec3,Intento,laut,-1.0,MAL!,Migos,will.i.am,Normal
+1655858179,6920c7ae-d38f-4854-bd40-d75564543ec3,Intento,laut,-2.0,MAL!,Migos,Sigrid,Normal
+1655858180,6920c7ae-d38f-4854-bd40-d75564543ec3,Intento,laut,-3.0,MAL!,Zay Hilfigerrr,Mustard,Normal
+1655858182,6920c7ae-d38f-4854-bd40-d75564543ec3,Intento,laut,-4.0,MAL!,Cher Lloyd,Lana Del Rey,Normal
+1655858183,6920c7ae-d38f-4854-bd40-d75564543ec3,Intento,laut,6.0,BIEN!,DJ Snake,DJ Snake,Normal
+1655858183,6920c7ae-d38f-4854-bd40-d75564543ec3,Intento,laut,16.0,BIEN!,Train,Train,Normal
+1655858185,6920c7ae-d38f-4854-bd40-d75564543ec3,Intento,laut,26.0,BIEN!,David Guetta,David Guetta,Normal
+1655858185,6920c7ae-d38f-4854-bd40-d75564543ec3,Intento,laut,36.0,BIEN!,Niall Horan,Niall Horan,Normal
+1655858186,6920c7ae-d38f-4854-bd40-d75564543ec3,Intento,laut,46.0,BIEN!,The Weeknd,The Weeknd,Normal
+1655858187,6920c7ae-d38f-4854-bd40-d75564543ec3,Intento,laut,46.0,BIEN!,Jonas Blue,Jonas Blue,Normal
+1655858188,6920c7ae-d38f-4854-bd40-d75564543ec3,Fin,laut,46.0,Finalizada,-,-,Normal
+1655858193,6049d362-7788-4dfe-a55e-b96ae36e9e76,inicio_partida,laut,0,nueva,-,-,Personalizado
+1655858194,6049d362-7788-4dfe-a55e-b96ae36e9e76,Intento,laut,-1.0,MAL!,Jay Sean,Rihanna,Personalizado
+1655858195,6049d362-7788-4dfe-a55e-b96ae36e9e76,Intento,laut,9.0,BIEN!,Sech,Sech,Personalizado
+1655858196,6049d362-7788-4dfe-a55e-b96ae36e9e76,Intento,laut,8.0,MAL!,Bazzi,Rihanna,Personalizado
+1655858197,6049d362-7788-4dfe-a55e-b96ae36e9e76,Intento,laut,7.0,MAL!,Jay Sean,Yolanda Be Cool,Personalizado
+1655858198,6049d362-7788-4dfe-a55e-b96ae36e9e76,Intento,laut,17.0,BIEN!,Justin Timberlake,Justin Timberlake,Personalizado
+1655858200,6049d362-7788-4dfe-a55e-b96ae36e9e76,Intento,laut,27.0,BIEN!,Rob $tone,Rob $tone,Personalizado
+1655858201,6049d362-7788-4dfe-a55e-b96ae36e9e76,Intento,laut,37.0,BIEN!,Drake,Drake,Personalizado
+1655858203,6049d362-7788-4dfe-a55e-b96ae36e9e76,Intento,laut,47.0,BIEN!,Jessie J,Jessie J,Personalizado
+1655858204,6049d362-7788-4dfe-a55e-b96ae36e9e76,Intento,laut,57.0,BIEN!,Vance Joy,Vance Joy,Personalizado
+1655858205,6049d362-7788-4dfe-a55e-b96ae36e9e76,Intento,laut,57.0,BIEN!,Timbaland,Timbaland,Personalizado
+1655858206,6049d362-7788-4dfe-a55e-b96ae36e9e76,Fin,laut,57.0,Finalizada,-,-,Personalizado
+1655858215,9dbbe926-8a0b-4b14-9860-d33625ff9930,inicio_partida,mine,0,nueva,-,-,Experto
+1655858218,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,10.0,BIEN!,Luca Plogmann,Luca Plogmann,Experto
+1655858230,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,9.0,TimeOut,No selecciono nada,Max O'Leary,Experto
+1655858231,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,8.0,MAL!,Antoine Leautey,Ludek Pernica,Experto
+1655858232,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,18.0,BIEN!,Iván Morales,Iván Morales,Experto
+1655858234,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,28.0,BIEN!,David Vrzogic,David Vrzogic,Experto
+1655858235,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,27.0,MAL!,Donovan Wilson,Shogo Taniguchi,Experto
+1655858236,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,26.0,MAL!,Yahia Fofana,Bradley Halliday,Experto
+1655858238,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,25.0,MAL!,Marcus Fraser,Mohammed Al Qarni,Experto
+1655858239,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,35.0,BIEN!,Philipe Sampaio,Philipe Sampaio,Experto
+1655858240,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,34.0,MAL!,Botond Baráth,Daniil Kulikov,Experto
+1655858241,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,33.0,MAL!,Philipp Hofmann,Benjamín Gazzolo,Experto
+1655858245,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,32.0,MAL!,Mauro Bustamante,Kenneth Vermeer,Experto
+1655858252,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,31.0,TimeOut,Philipp Förster,Philipp Förster,Experto
+1655858255,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,30.0,MAL!,Hakan Özmert,Miguel Ponce,Experto
+1655858257,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,29.0,MAL!,Kevin Conboy,Bae Ki Jong,Experto
+1655858258,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,39.0,BIEN!,Mark McKenzie,Mark McKenzie,Experto
+1655858259,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,38.0,MAL!,Dylan Pierias,Bayli Spencer-Adams,Experto
+1655858261,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,37.0,MAL!,Pêpê,George Davies,Experto
+1655858267,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,36.0,TimeOut,No selecciono nada,Steeven Willems,Experto
+1655858268,9dbbe926-8a0b-4b14-9860-d33625ff9930,Intento,mine,36.0,BIEN!,Luke Leahy,Luke Leahy,Experto
+1655858270,9dbbe926-8a0b-4b14-9860-d33625ff9930,Fin,mine,36.0,Finalizada,-,-,Experto
+1656044538,22d425ec-e85f-441f-b4f0-29963c177426,inicio_partida,ala,0,nueva,-,-,Facil
+1656044540,22d425ec-e85f-441f-b4f0-29963c177426,Intento,ala,10.0,BIEN!,Gabriel Xavier,Gabriel Xavier,Facil
+1656044541,22d425ec-e85f-441f-b4f0-29963c177426,Intento,ala,9.0,MAL!,Gustav Engvall,Harvey Gilmour,Facil
+1656044543,22d425ec-e85f-441f-b4f0-29963c177426,Intento,ala,8.0,MAL!,William Troost-Ekong,Guima,Facil
+1656044544,22d425ec-e85f-441f-b4f0-29963c177426,Intento,ala,7.0,MAL!,Jo Sung Joon,Uche Ikpeazu,Facil
+1656044545,22d425ec-e85f-441f-b4f0-29963c177426,Intento,ala,6.0,MAL!,Jair,William Eskelinen,Facil
+1656044545,22d425ec-e85f-441f-b4f0-29963c177426,Intento,ala,16.0,BIEN!,Serge-Philippe Raux-Yao,Serge-Philippe Raux-Yao,Facil
+1656044547,22d425ec-e85f-441f-b4f0-29963c177426,Intento,ala,16.0,MAL!,Ousmane Dembélé,Fer Niño,Facil
+1656044548,22d425ec-e85f-441f-b4f0-29963c177426,Fin,ala,16.0,Finalizada,-,-,Facil
+1656045738,d35ef22c-74fa-405c-8985-11832667b76d,inicio_partida,kjj,0,nueva,-,-,Experto
+1656045786,01030e3b-e678-4b8c-aef8-6f5a62463cb2,inicio_partida,kjj,0,nueva,-,-,Experto
+1656045788,01030e3b-e678-4b8c-aef8-6f5a62463cb2,cancelada,kjj,0,-,-,-,Experto
+1656045816,8ebf51ec-b030-4548-b38d-9fa5fb583e01,inicio_partida,kjj,0,nueva,-,-,Experto
+1656045819,8ebf51ec-b030-4548-b38d-9fa5fb583e01,cancelada,kjj,0,-,-,-,Experto
+1656046421,c410e9f3-1a77-48e1-96c0-dec8c561a293,inicio_partida,Hola!,0,nueva,-,-,Experto
+1656046430,c410e9f3-1a77-48e1-96c0-dec8c561a293,Intento,Hola!,-1.0,TimeOut,-,Azuma (Japan),Experto
+1656046433,c410e9f3-1a77-48e1-96c0-dec8c561a293,cancelada,Hola!,0,-,-,-,Experto
+1656046543,d9b1d968-a6ce-4bc6-94cb-fca92c032adc,inicio_partida,kjj,0,nueva,-,-,Experto
+1656046551,d9b1d968-a6ce-4bc6-94cb-fca92c032adc,Intento,kjj,-1.0,TimeOut,-,Dušan Tadic,Experto
+1656046629,e8aa190c-5314-4fd8-9490-067cfda39c54,inicio_partida,kjj,0,nueva,-,-,Experto
+1656046635,e8aa190c-5314-4fd8-9490-067cfda39c54,Intento,kjj,-1.0,TimeOut,-,Huila (Colombia),Experto
+1656046637,e8aa190c-5314-4fd8-9490-067cfda39c54,cancelada,kjj,0,-,-,-,Experto
+1656046692,d52afd0c-aeee-496a-b5bd-e32c9684a3a7,inicio_partida,kjj,0,nueva,-,-,Experto
+1656046698,d52afd0c-aeee-496a-b5bd-e32c9684a3a7,Intento,kjj,-1.0,TimeOut,-,Cotopaxi (Ecuador),Experto
+1656046807,9afc8f9f-96d4-438b-a409-0c9b7bf43faf,inicio_partida,Hola!,0,nueva,-,-,Experto
+1656046812,9afc8f9f-96d4-438b-a409-0c9b7bf43faf,cancelada,Hola!,0,-,-,-,Experto
+1656048613,1e6980f7-4cdc-49e3-afc8-27963022858e,inicio_partida,kjj,0,nueva,-,-,Normal
+1656048623,1e6980f7-4cdc-49e3-afc8-27963022858e,cancelada,kjj,0,-,-,-,Normal
+1656048625,86bfbac1-522d-4779-a1c6-ac5ba6387273,inicio_partida,kjj,0,nueva,-,-,Normal
+1656048632,86bfbac1-522d-4779-a1c6-ac5ba6387273,Intento,kjj,-1.0,MAL!,Yo Gotti,Avicii,Normal
+1656048633,86bfbac1-522d-4779-a1c6-ac5ba6387273,Intento,kjj,-2.0,MAL!,Yo Gotti,Chris Brown,Normal
+1656048635,86bfbac1-522d-4779-a1c6-ac5ba6387273,Intento,kjj,-3.0,MAL!,The Wanted,Calvin Harris,Normal
+1656048637,86bfbac1-522d-4779-a1c6-ac5ba6387273,Intento,kjj,-4.0,MAL!,Sebastian Ingrosso,Sean Kingston,Normal
+1656048639,86bfbac1-522d-4779-a1c6-ac5ba6387273,Intento,kjj,-5.0,MAL!,Ayo & Teo,Drake,Normal
+1656048640,86bfbac1-522d-4779-a1c6-ac5ba6387273,Intento,kjj,5.0,BIEN!,Bruno Mars,Bruno Mars,Normal
+1656048641,86bfbac1-522d-4779-a1c6-ac5ba6387273,Intento,kjj,4.0,MAL!,Lorde,John Mayer,Normal
+1656048642,86bfbac1-522d-4779-a1c6-ac5ba6387273,Intento,kjj,3.0,MAL!,NF,Asaf Avidan,Normal
+1656048643,86bfbac1-522d-4779-a1c6-ac5ba6387273,Intento,kjj,2.0,MAL!,Red Hot Chili Peppers,Cardi B,Normal
+1656048645,86bfbac1-522d-4779-a1c6-ac5ba6387273,Intento,kjj,2.0,BIEN!,Zara Larsson,Zara Larsson,Normal
+1656048646,86bfbac1-522d-4779-a1c6-ac5ba6387273,Fin,kjj,2.0,Finalizada,-,-,Normal
+1656538605,bbcb3f94-5d1b-40d9-8f48-a0bdff5c6067,inicio_partida,Hola!,0,nueva,-,-,Facil
+1656538621,bbcb3f94-5d1b-40d9-8f48-a0bdff5c6067,Intento,Hola!,-1.0,TimeOut,-,Maximiliano Olivera,Facil
+1656538629,bbcb3f94-5d1b-40d9-8f48-a0bdff5c6067,cancelada,Hola!,0,-,-,-,Facil
+1656538682,027b15ec-5e69-4242-93ca-2aed290ad9b4,inicio_partida,Hola!,0,nueva,-,-,Facil
+1656538699,027b15ec-5e69-4242-93ca-2aed290ad9b4,Intento,Hola!,-1.0,TimeOut,Kygo,Lykke Li,Facil
+1656538703,027b15ec-5e69-4242-93ca-2aed290ad9b4,cancelada,Hola!,0,-,-,-,Facil
+1656538719,7eaf3f2f-cf45-4671-9e99-15c3e004a1b2,inicio_partida,Hola!,0,nueva,-,-,Facil
+1656538730,7eaf3f2f-cf45-4671-9e99-15c3e004a1b2,cancelada,Hola!,0,-,-,-,Facil
+1656539302,6d50bf90-1b71-43b2-a4dc-785477b8ea2b,inicio_partida,Hola!,0,nueva,-,-,Facil
+1656539308,6d50bf90-1b71-43b2-a4dc-785477b8ea2b,Intento,Hola!,10.0,BIEN!,Guntur (Indonesia),Guntur (Indonesia),Facil
+1656539310,6d50bf90-1b71-43b2-a4dc-785477b8ea2b,Intento,Hola!,9.0,MAL!,Tolbachik (Russia),Villarrica (Chile),Facil
+1656539311,6d50bf90-1b71-43b2-a4dc-785477b8ea2b,Intento,Hola!,8.0,MAL!,Akita-Yake-yama (Japan),Bardarbunga (Iceland),Facil
+1656539312,6d50bf90-1b71-43b2-a4dc-785477b8ea2b,Intento,Hola!,7.0,MAL!,Bardarbunga (Iceland),St. Helens (United States),Facil
+1656539313,6d50bf90-1b71-43b2-a4dc-785477b8ea2b,Intento,Hola!,6.0,MAL!,Tullu Moje (Ethiopia),Veniaminof (United States),Facil
+1656539314,6d50bf90-1b71-43b2-a4dc-785477b8ea2b,Intento,Hola!,5.0,MAL!,Gamalama (Indonesia),"Nyiragongo (Congo, DRC)",Facil
+1656539316,6d50bf90-1b71-43b2-a4dc-785477b8ea2b,Intento,Hola!,5.0,BIEN!,Fogo (Cape Verde),Fogo (Cape Verde),Facil
+1656539319,6d50bf90-1b71-43b2-a4dc-785477b8ea2b,Fin,Hola!,5.0,Finalizada,-,-,Facil
+1656539339,7f6b1e7e-2b60-4f91-96f5-9f5b4be9290a,inicio_partida,Hola!,0,nueva,-,-,Facil
+1656539357,7f6b1e7e-2b60-4f91-96f5-9f5b4be9290a,Intento,Hola!,-1.0,TimeOut,Fogo (Cape Verde),Karkar (Papua New Guinea),Facil
+1656539374,7f6b1e7e-2b60-4f91-96f5-9f5b4be9290a,Intento,Hola!,-2.0,TimeOut,Fogo (Cape Verde),Banda Api (Pacific Ocean),Facil
+1656539390,7f6b1e7e-2b60-4f91-96f5-9f5b4be9290a,Intento,Hola!,-3.0,TimeOut,Fogo (Cape Verde),Tengger Caldera (Indonesia),Facil
+1656539406,7f6b1e7e-2b60-4f91-96f5-9f5b4be9290a,Intento,Hola!,-4.0,TimeOut,Fogo (Cape Verde),Hakone (Japan),Facil
+1656539412,7f6b1e7e-2b60-4f91-96f5-9f5b4be9290a,cancelada,Hola!,0,-,-,-,Facil
+1656621890,6862026c-7cc3-45cb-a804-985e70fc2e50,inicio_partida,terd,0,nueva,-,-,Personalizado
+1656625232,e42ef843-9afb-4e7d-a459-9cedb38cdfc2,inicio_partida,lala,0,nueva,-,-,Facil
+1656625236,e42ef843-9afb-4e7d-a459-9cedb38cdfc2,cancelada,lala,0,-,-,-,Facil
+1656625239,7bd83a99-d7ea-4919-bbe4-fd7388261270,inicio_partida,lala,0,nueva,-,-,Facil
+1656625247,7bd83a99-d7ea-4919-bbe4-fd7388261270,Intento,lala,-1.0,MAL!,Roman Bürki,James Donachie,Facil
+1656625257,7bd83a99-d7ea-4919-bbe4-fd7388261270,Intento,lala,-2.0,MAL!,Andrea Petagna,Harisson Marcelin,Facil
+1656625267,7bd83a99-d7ea-4919-bbe4-fd7388261270,Intento,lala,-3.0,MAL!,Patrick Cutrone,Carlos Júnior,Facil
+1656625281,7bd83a99-d7ea-4919-bbe4-fd7388261270,Intento,lala,-4.0,MAL!,Ben Wilmot,Ciarán Coll,Facil
+1656625282,7bd83a99-d7ea-4919-bbe4-fd7388261270,Intento,lala,-5.0,MAL!,Brandon Bye,Jacob Maddox,Facil
+1656625284,7bd83a99-d7ea-4919-bbe4-fd7388261270,Intento,lala,-6.0,MAL!,Jacob Maddox,Jaime Stabile Báez,Facil
+1656625285,7bd83a99-d7ea-4919-bbe4-fd7388261270,Intento,lala,-6.0,MAL!,Burak Yilmaz,Albert Rusnák,Facil
+1656625286,7bd83a99-d7ea-4919-bbe4-fd7388261270,Fin,lala,-6.0,Finalizada,-,-,Facil
+1656625288,c8bf6997-81ca-4319-ba82-5040350731d1,inicio_partida,lala,0,nueva,-,-,Facil
+1656625290,c8bf6997-81ca-4319-ba82-5040350731d1,Intento,lala,-1.0,MAL!,Bezymianny (Russia),Victory (Papua New Guinea),Facil
+1656625291,c8bf6997-81ca-4319-ba82-5040350731d1,Intento,lala,9.0,BIEN!,Karangetang [Api Siau] (Indonesia),Karangetang [Api Siau] (Indonesia),Facil
+1656625294,c8bf6997-81ca-4319-ba82-5040350731d1,cancelada,lala,0,-,-,-,Facil
+1657304753,3a7a490d-62e3-45b7-892a-2f9340bc815e,inicio_partida,we,0,nueva,-,-,Experto
+1657304758,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,10.0,BIEN!,Eminem,Eminem,Experto
+1657304762,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,9.0,MAL!,M.O,K'NAAN,Experto
+1657304763,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,8.0,MAL!,M.O,Rihanna,Experto
+1657304765,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,7.0,MAL!,The Wanted,The 1975,Experto
+1657304766,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,6.0,MAL!,Alesso,Nico & Vinz,Experto
+1657304769,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,5.0,MAL!,Lil Pump,Rihanna,Experto
+1657304771,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,4.0,MAL!,Rihanna,Kiiara,Experto
+1657304772,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,3.0,MAL!,Anne-Marie,Iyaz,Experto
+1657304775,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,2.0,MAL!,Selena Gomez & The Scene,Neon Trees,Experto
+1657304777,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,1.0,MAL!,Katy Perry,John Legend,Experto
+1657304778,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,0.0,MAL!,CHVRCHES,Sheck Wes,Experto
+1657304780,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,-1.0,MAL!,Young T & Bugsey,Disclosure,Experto
+1657304781,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,9.0,BIEN!,Bad Bunny,Bad Bunny,Experto
+1657304782,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,8.0,MAL!,Bad Bunny,Pitbull,Experto
+1657304783,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,18.0,BIEN!,Lady Gaga,Lady Gaga,Experto
+1657304786,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,17.0,MAL!,The Strumbellas,Drake,Experto
+1657304788,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,16.0,MAL!,PNAU,Avicii,Experto
+1657304790,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,15.0,MAL!,Birdy,Calvin Harris,Experto
+1657304791,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,14.0,MAL!,Calum Scott,21 Savage,Experto
+1657304793,3a7a490d-62e3-45b7-892a-2f9340bc815e,Intento,we,14.0,BIEN!,Post Malone,Post Malone,Experto
+1657304795,3a7a490d-62e3-45b7-892a-2f9340bc815e,Fin,we,14.0,Finalizada,-,-,Experto

@@ -18,6 +18,9 @@ Sitios donde se consiguieron las imagenes:
     * Volcan: https://es.wikipedia.org/wiki/Volcán_de_Fuego
     * Spotify: https://cincodias.elpais.com/cincodias/2015/07/02/lifestyle/1435829625_054655.html
     * Fifa: https://www.amazon.com/-/es/dp/B07DMJP93B
+    
+Arte: 
+   https://www.linkedin.com/in/maría-flor-quispe-garcía-aba71221b/
 
 
 Integrantes: Leandro Carrizo, Lautaro Alcorta (18668/5), Manuel Calisaya, Dylan Gomez (19789/8)

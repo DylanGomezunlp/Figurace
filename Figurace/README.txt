@@ -19,8 +19,8 @@ Sitios donde se consiguieron las imagenes:
     * Spotify: https://cincodias.elpais.com/cincodias/2015/07/02/lifestyle/1435829625_054655.html
     * Fifa: https://www.amazon.com/-/es/dp/B07DMJP93B
     
-Arte: 
+Arte y diseño: 
    https://www.linkedin.com/in/maría-flor-quispe-garcía-aba71221b/
 
 
-Integrantes: Leandro Carrizo, Lautaro Alcorta (18668/5), Manuel Calisaya, Dylan Gomez (19789/8)
+Integrantes: Leandro Carrizo, Lautaro Alcorta (18668/5), Dylan Gomez (19789/8)
